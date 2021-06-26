@@ -1,0 +1,2 @@
+rootProject.name = "CurrencyRates"
+include ':app'
